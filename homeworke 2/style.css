@@ -1,0 +1,8 @@
+:root {
+    ---first-color-tekst: bl
+}
+body {font-family: 'Roboto', sans-serif;
+color: black;
+line-height: 1.6;
+}
+header {background-color: white;}
